@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/f1cfce50c47d4e5a8aa053518983a4ec/artifacts
+end_time: 1735617187394
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: f1cfce50c47d4e5a8aa053518983a4ec
+run_name: rare-lamb-326
+run_uuid: f1cfce50c47d4e5a8aa053518983a4ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187386
+status: 3
+tags: []
+user_id: bhavyavadher

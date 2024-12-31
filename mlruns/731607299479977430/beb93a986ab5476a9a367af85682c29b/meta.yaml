@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/beb93a986ab5476a9a367af85682c29b/artifacts
+end_time: 1735617197777
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: beb93a986ab5476a9a367af85682c29b
+run_name: learned-wren-872
+run_uuid: beb93a986ab5476a9a367af85682c29b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197770
+status: 3
+tags: []
+user_id: bhavyavadher

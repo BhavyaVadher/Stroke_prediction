@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/720904673401910934/0b998c679a9e4bcbbaf33d044bc55ad2/artifacts
+end_time: 1735617187221
+entry_point_name: ''
+experiment_id: '720904673401910934'
+lifecycle_stage: active
+run_id: 0b998c679a9e4bcbbaf33d044bc55ad2
+run_name: auspicious-mare-976
+run_uuid: 0b998c679a9e4bcbbaf33d044bc55ad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187216
+status: 3
+tags: []
+user_id: bhavyavadher

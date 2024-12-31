@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/56ffede502cf4bafa836d8044a898815/artifacts
+end_time: 1735617183468
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 56ffede502cf4bafa836d8044a898815
+run_name: bustling-penguin-519
+run_uuid: 56ffede502cf4bafa836d8044a898815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183462
+status: 3
+tags: []
+user_id: bhavyavadher

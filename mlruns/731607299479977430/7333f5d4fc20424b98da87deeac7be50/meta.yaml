@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/7333f5d4fc20424b98da87deeac7be50/artifacts
+end_time: 1735617183575
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 7333f5d4fc20424b98da87deeac7be50
+run_name: thoughtful-dove-837
+run_uuid: 7333f5d4fc20424b98da87deeac7be50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183569
+status: 3
+tags: []
+user_id: bhavyavadher

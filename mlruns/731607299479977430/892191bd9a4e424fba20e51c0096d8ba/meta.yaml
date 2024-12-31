@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/892191bd9a4e424fba20e51c0096d8ba/artifacts
+end_time: 1735617187325
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 892191bd9a4e424fba20e51c0096d8ba
+run_name: kindly-squid-914
+run_uuid: 892191bd9a4e424fba20e51c0096d8ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187320
+status: 3
+tags: []
+user_id: bhavyavadher

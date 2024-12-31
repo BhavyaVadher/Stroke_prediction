@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/eab12b5f24984753b14b1cbb30f3c04a/artifacts
+end_time: 1735617183568
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: eab12b5f24984753b14b1cbb30f3c04a
+run_name: receptive-grouse-272
+run_uuid: eab12b5f24984753b14b1cbb30f3c04a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183563
+status: 3
+tags: []
+user_id: bhavyavadher

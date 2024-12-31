@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/dd57b530b20f4d24ba80e9d154ef806b/artifacts
+end_time: 1735617187430
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: dd57b530b20f4d24ba80e9d154ef806b
+run_name: useful-hare-669
+run_uuid: dd57b530b20f4d24ba80e9d154ef806b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187424
+status: 3
+tags: []
+user_id: bhavyavadher

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/1bb2900abecf42c097d4416c3853f08a/artifacts
+end_time: 1735617187409
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 1bb2900abecf42c097d4416c3853f08a
+run_name: wise-carp-829
+run_uuid: 1bb2900abecf42c097d4416c3853f08a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187404
+status: 3
+tags: []
+user_id: bhavyavadher

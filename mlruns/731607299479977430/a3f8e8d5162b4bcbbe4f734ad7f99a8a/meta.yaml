@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/a3f8e8d5162b4bcbbe4f734ad7f99a8a/artifacts
+end_time: 1735617197686
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: a3f8e8d5162b4bcbbe4f734ad7f99a8a
+run_name: secretive-gnu-211
+run_uuid: a3f8e8d5162b4bcbbe4f734ad7f99a8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197679
+status: 3
+tags: []
+user_id: bhavyavadher

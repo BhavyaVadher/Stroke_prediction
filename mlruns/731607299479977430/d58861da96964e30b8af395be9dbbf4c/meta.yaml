@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/d58861da96964e30b8af395be9dbbf4c/artifacts
+end_time: 1735617198070
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: d58861da96964e30b8af395be9dbbf4c
+run_name: fun-conch-695
+run_uuid: d58861da96964e30b8af395be9dbbf4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198064
+status: 3
+tags: []
+user_id: bhavyavadher

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/a7878fa3e9524a5dbeb67b34c2e8e3a9/artifacts
+end_time: 1735617198014
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: a7878fa3e9524a5dbeb67b34c2e8e3a9
+run_name: exultant-sheep-979
+run_uuid: a7878fa3e9524a5dbeb67b34c2e8e3a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198007
+status: 3
+tags: []
+user_id: bhavyavadher

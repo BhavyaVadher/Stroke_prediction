@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/6a19af8f954046e0aafd9b345ceb0c86/artifacts
+end_time: 1735617198108
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 6a19af8f954046e0aafd9b345ceb0c86
+run_name: debonair-doe-612
+run_uuid: 6a19af8f954046e0aafd9b345ceb0c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198101
+status: 3
+tags: []
+user_id: bhavyavadher

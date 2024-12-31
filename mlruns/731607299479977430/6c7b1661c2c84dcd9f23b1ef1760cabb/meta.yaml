@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/6c7b1661c2c84dcd9f23b1ef1760cabb/artifacts
+end_time: 1735617198085
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 6c7b1661c2c84dcd9f23b1ef1760cabb
+run_name: auspicious-duck-614
+run_uuid: 6c7b1661c2c84dcd9f23b1ef1760cabb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198078
+status: 3
+tags: []
+user_id: bhavyavadher

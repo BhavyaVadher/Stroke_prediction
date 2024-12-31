@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/215a69054c6d4ae29eab2e70e1a0d165/artifacts
+end_time: 1735617198394
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 215a69054c6d4ae29eab2e70e1a0d165
+run_name: sedate-ant-801
+run_uuid: 215a69054c6d4ae29eab2e70e1a0d165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197646
+status: 3
+tags: []
+user_id: bhavyavadher

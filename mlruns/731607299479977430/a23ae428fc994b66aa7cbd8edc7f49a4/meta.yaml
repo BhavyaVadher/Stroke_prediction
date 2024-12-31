@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/a23ae428fc994b66aa7cbd8edc7f49a4/artifacts
+end_time: 1735617197791
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: a23ae428fc994b66aa7cbd8edc7f49a4
+run_name: amazing-croc-780
+run_uuid: a23ae428fc994b66aa7cbd8edc7f49a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197785
+status: 3
+tags: []
+user_id: bhavyavadher

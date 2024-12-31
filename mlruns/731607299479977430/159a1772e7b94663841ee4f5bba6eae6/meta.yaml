@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/159a1772e7b94663841ee4f5bba6eae6/artifacts
+end_time: 1735617197770
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 159a1772e7b94663841ee4f5bba6eae6
+run_name: enthused-worm-334
+run_uuid: 159a1772e7b94663841ee4f5bba6eae6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197763
+status: 3
+tags: []
+user_id: bhavyavadher

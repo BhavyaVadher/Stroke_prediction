@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/032a8158de4441669ce4302f8eabd243/artifacts
+end_time: 1735617198173
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 032a8158de4441669ce4302f8eabd243
+run_name: luminous-panda-173
+run_uuid: 032a8158de4441669ce4302f8eabd243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198166
+status: 3
+tags: []
+user_id: bhavyavadher

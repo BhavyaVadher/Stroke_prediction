@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/22319b6fbc1142b79d97f20990f29a9a/artifacts
+end_time: 1735617197763
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 22319b6fbc1142b79d97f20990f29a9a
+run_name: welcoming-calf-682
+run_uuid: 22319b6fbc1142b79d97f20990f29a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197757
+status: 3
+tags: []
+user_id: bhavyavadher

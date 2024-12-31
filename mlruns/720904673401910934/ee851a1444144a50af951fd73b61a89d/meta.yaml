@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/720904673401910934/ee851a1444144a50af951fd73b61a89d/artifacts
+end_time: 1735617188892
+entry_point_name: ''
+experiment_id: '720904673401910934'
+lifecycle_stage: active
+run_id: ee851a1444144a50af951fd73b61a89d
+run_name: efficient-lynx-384
+run_uuid: ee851a1444144a50af951fd73b61a89d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617188888
+status: 3
+tags: []
+user_id: bhavyavadher

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/dbe992ca71a148fcbf3c779d393bb3bc/artifacts
+end_time: 1735617187345
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: dbe992ca71a148fcbf3c779d393bb3bc
+run_name: wistful-cod-148
+run_uuid: dbe992ca71a148fcbf3c779d393bb3bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187339
+status: 3
+tags: []
+user_id: bhavyavadher

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/8cb01d0fd2ea49488d04c8f299f77610/artifacts
+end_time: 1735617183555
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 8cb01d0fd2ea49488d04c8f299f77610
+run_name: calm-calf-294
+run_uuid: 8cb01d0fd2ea49488d04c8f299f77610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183550
+status: 3
+tags: []
+user_id: bhavyavadher

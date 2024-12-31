@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/46c92421e48c4bd59c00f43c5f30ef63/artifacts
+end_time: 1735617197729
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 46c92421e48c4bd59c00f43c5f30ef63
+run_name: secretive-zebra-526
+run_uuid: 46c92421e48c4bd59c00f43c5f30ef63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197723
+status: 3
+tags: []
+user_id: bhavyavadher

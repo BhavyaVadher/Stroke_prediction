@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/47cfeea411c44aeb972aa441a4c15967/artifacts
+end_time: 1735617183440
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 47cfeea411c44aeb972aa441a4c15967
+run_name: placid-bird-735
+run_uuid: 47cfeea411c44aeb972aa441a4c15967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183435
+status: 3
+tags: []
+user_id: bhavyavadher

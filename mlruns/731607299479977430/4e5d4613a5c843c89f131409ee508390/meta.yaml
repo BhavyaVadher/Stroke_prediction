@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/4e5d4613a5c843c89f131409ee508390/artifacts
+end_time: 1735617183428
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 4e5d4613a5c843c89f131409ee508390
+run_name: unruly-shrike-516
+run_uuid: 4e5d4613a5c843c89f131409ee508390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183423
+status: 3
+tags: []
+user_id: bhavyavadher

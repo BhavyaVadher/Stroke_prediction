@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/c9f9c878b89b4a899c33278254f06cb9/artifacts
+end_time: 1735617197700
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: c9f9c878b89b4a899c33278254f06cb9
+run_name: bittersweet-bear-594
+run_uuid: c9f9c878b89b4a899c33278254f06cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197693
+status: 3
+tags: []
+user_id: bhavyavadher

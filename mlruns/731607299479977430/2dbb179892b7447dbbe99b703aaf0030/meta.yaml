@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/2dbb179892b7447dbbe99b703aaf0030/artifacts
+end_time: 1735617197882
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 2dbb179892b7447dbbe99b703aaf0030
+run_name: blushing-fly-800
+run_uuid: 2dbb179892b7447dbbe99b703aaf0030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197876
+status: 3
+tags: []
+user_id: bhavyavadher

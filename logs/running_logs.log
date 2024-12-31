@@ -1,0 +1,73 @@
+[2024-12-30 22:53:02,294: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-12-30 22:53:02,296: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-30 22:53:02,300: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-30 22:53:02,301: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-30 22:53:02,301: INFO: common: created directory at: artifacts]
+[2024-12-30 22:53:02,301: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-12-30 22:53:02,751: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 69430
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1e63b067bd071aa8a32e9c74b98733a21107280771c9d095615ec4ee7283d566"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4E58:81585:18319A9:1AF1F39:67736A9C
+Accept-Ranges: bytes
+Date: Tue, 31 Dec 2024 03:53:02 GMT
+Via: 1.1 varnish
+X-Served-By: cache-yyz4572-YYZ
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1735617183.647779,VS0,VE112
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2e36c1e15ac3e3fec5f0371a33f0069d93c23c30
+Expires: Tue, 31 Dec 2024 03:58:02 GMT
+Source-Age: 0
+
+]
+[2024-12-30 22:53:02,754: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-12-30 22:53:02,754: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-12-30 22:53:02,755: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-30 22:53:02,758: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-30 22:53:02,759: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-30 22:53:02,759: INFO: common: created directory at: artifacts]
+[2024-12-30 22:53:02,760: INFO: common: created directory at: artifacts/data_validation]
+[2024-12-30 22:53:02,767: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-12-30 22:53:02,767: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-12-30 22:53:02,768: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-30 22:53:02,771: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-30 22:53:02,772: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-30 22:53:02,772: INFO: common: created directory at: artifacts]
+[2024-12-30 22:53:02,772: INFO: common: created directory at: artifacts/data_transformation]
+[2024-12-30 22:53:02,797: INFO: data_transformation: Splited data into training and test sets]
+[2024-12-30 22:53:02,797: INFO: data_transformation: (3681, 10)]
+[2024-12-30 22:53:02,797: INFO: data_transformation: (1228, 10)]
+[2024-12-30 22:53:02,797: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-12-30 22:53:02,797: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-12-30 22:53:02,798: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-12-30 22:53:02,800: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-30 22:53:02,800: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-12-30 22:53:02,800: INFO: common: created directory at: artifacts]
+[2024-12-30 22:53:02,800: INFO: common: created directory at: artifacts/model_trainer]
+[2024-12-30 22:53:02,800: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-12-30 22:53:02,803: INFO: model_training: train and test data read successfully.]
+[2024-12-30 22:53:02,803: INFO: model_training: evaluate model started]
+[2024-12-30 22:53:03,584: INFO: common: json file saved at: artifacts/model_evaluation/Logistic Regression.json]
+[2024-12-30 22:53:07,673: INFO: common: json file saved at: artifacts/model_evaluation/SVC.json]
+[2024-12-30 22:53:08,900: INFO: common: json file saved at: artifacts/model_evaluation/Guassian Naive Bayes.json]
+[2024-12-30 22:53:18,391: INFO: common: json file saved at: artifacts/model_evaluation/RandomForestClassifier.json]
+[2024-12-30 22:53:19,609: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]

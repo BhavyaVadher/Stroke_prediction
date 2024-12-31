@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/4407c302178c4bcaacd62f51b57384b6/artifacts
+end_time: 1735617197875
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 4407c302178c4bcaacd62f51b57384b6
+run_name: melodic-zebra-279
+run_uuid: 4407c302178c4bcaacd62f51b57384b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197869
+status: 3
+tags: []
+user_id: bhavyavadher

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/80f5bc461f2a4ce2a955f13ac59b49bb/artifacts
+end_time: 1735617197998
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 80f5bc461f2a4ce2a955f13ac59b49bb
+run_name: glamorous-ray-826
+run_uuid: 80f5bc461f2a4ce2a955f13ac59b49bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197991
+status: 3
+tags: []
+user_id: bhavyavadher

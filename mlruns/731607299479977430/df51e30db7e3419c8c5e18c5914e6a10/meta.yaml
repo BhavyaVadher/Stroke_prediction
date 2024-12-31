@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/df51e30db7e3419c8c5e18c5914e6a10/artifacts
+end_time: 1735617198116
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: df51e30db7e3419c8c5e18c5914e6a10
+run_name: bald-kite-444
+run_uuid: df51e30db7e3419c8c5e18c5914e6a10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198109
+status: 3
+tags: []
+user_id: bhavyavadher

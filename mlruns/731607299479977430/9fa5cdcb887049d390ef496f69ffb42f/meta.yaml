@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/9fa5cdcb887049d390ef496f69ffb42f/artifacts
+end_time: 1735617183474
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 9fa5cdcb887049d390ef496f69ffb42f
+run_name: exultant-vole-523
+run_uuid: 9fa5cdcb887049d390ef496f69ffb42f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183469
+status: 3
+tags: []
+user_id: bhavyavadher

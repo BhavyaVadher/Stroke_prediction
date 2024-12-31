@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/4fed3b0733884e3091c8fbb7ca10da28/artifacts
+end_time: 1735617183504
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 4fed3b0733884e3091c8fbb7ca10da28
+run_name: thoughtful-rook-853
+run_uuid: 4fed3b0733884e3091c8fbb7ca10da28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183493
+status: 3
+tags: []
+user_id: bhavyavadher

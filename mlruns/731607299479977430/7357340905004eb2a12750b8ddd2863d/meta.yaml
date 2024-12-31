@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/7357340905004eb2a12750b8ddd2863d/artifacts
+end_time: 1735617183487
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 7357340905004eb2a12750b8ddd2863d
+run_name: valuable-newt-340
+run_uuid: 7357340905004eb2a12750b8ddd2863d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183481
+status: 3
+tags: []
+user_id: bhavyavadher

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/b9e23e5ee1e747a5a1707e310c102cbb/artifacts
+end_time: 1735617197756
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: b9e23e5ee1e747a5a1707e310c102cbb
+run_name: adaptable-ox-69
+run_uuid: b9e23e5ee1e747a5a1707e310c102cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197749
+status: 3
+tags: []
+user_id: bhavyavadher

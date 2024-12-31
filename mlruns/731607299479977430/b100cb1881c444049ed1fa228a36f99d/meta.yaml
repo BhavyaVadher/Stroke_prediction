@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/b100cb1881c444049ed1fa228a36f99d/artifacts
+end_time: 1735617198143
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: b100cb1881c444049ed1fa228a36f99d
+run_name: dashing-shark-523
+run_uuid: b100cb1881c444049ed1fa228a36f99d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198136
+status: 3
+tags: []
+user_id: bhavyavadher

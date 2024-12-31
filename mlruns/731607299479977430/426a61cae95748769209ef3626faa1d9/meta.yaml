@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/426a61cae95748769209ef3626faa1d9/artifacts
+end_time: 1735617187332
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 426a61cae95748769209ef3626faa1d9
+run_name: resilient-panda-546
+run_uuid: 426a61cae95748769209ef3626faa1d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187326
+status: 3
+tags: []
+user_id: bhavyavadher

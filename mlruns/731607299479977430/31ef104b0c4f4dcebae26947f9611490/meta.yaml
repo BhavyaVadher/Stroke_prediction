@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/31ef104b0c4f4dcebae26947f9611490/artifacts
+end_time: 1735617197976
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 31ef104b0c4f4dcebae26947f9611490
+run_name: bedecked-fawn-918
+run_uuid: 31ef104b0c4f4dcebae26947f9611490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197969
+status: 3
+tags: []
+user_id: bhavyavadher

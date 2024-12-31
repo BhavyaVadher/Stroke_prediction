@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/1f7a2634ebd1488682daabe8d354503f/artifacts
+end_time: 1735617198048
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 1f7a2634ebd1488682daabe8d354503f
+run_name: serious-midge-298
+run_uuid: 1f7a2634ebd1488682daabe8d354503f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198041
+status: 3
+tags: []
+user_id: bhavyavadher

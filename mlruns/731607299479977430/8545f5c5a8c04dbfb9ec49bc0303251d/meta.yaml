@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/8545f5c5a8c04dbfb9ec49bc0303251d/artifacts
+end_time: 1735617188903
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 8545f5c5a8c04dbfb9ec49bc0303251d
+run_name: Guassian Naive Bayes
+run_uuid: 8545f5c5a8c04dbfb9ec49bc0303251d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617188872
+status: 3
+tags: []
+user_id: bhavyavadher

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/a99dd38d32c040cc908087b673f6232d/artifacts
+end_time: 1735617198125
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: a99dd38d32c040cc908087b673f6232d
+run_name: casual-shad-469
+run_uuid: a99dd38d32c040cc908087b673f6232d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198116
+status: 3
+tags: []
+user_id: bhavyavadher

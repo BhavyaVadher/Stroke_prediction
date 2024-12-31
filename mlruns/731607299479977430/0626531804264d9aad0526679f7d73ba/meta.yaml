@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/0626531804264d9aad0526679f7d73ba/artifacts
+end_time: 1735617197737
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 0626531804264d9aad0526679f7d73ba
+run_name: silent-perch-782
+run_uuid: 0626531804264d9aad0526679f7d73ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197730
+status: 3
+tags: []
+user_id: bhavyavadher

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/e68e725142a04cc498f51b8b529e1b73/artifacts
+end_time: 1735617197954
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: e68e725142a04cc498f51b8b529e1b73
+run_name: amazing-zebra-153
+run_uuid: e68e725142a04cc498f51b8b529e1b73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197947
+status: 3
+tags: []
+user_id: bhavyavadher

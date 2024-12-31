@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/1841da98de274f909363652721d16378/artifacts
+end_time: 1735617197714
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 1841da98de274f909363652721d16378
+run_name: clean-dog-654
+run_uuid: 1841da98de274f909363652721d16378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197709
+status: 3
+tags: []
+user_id: bhavyavadher

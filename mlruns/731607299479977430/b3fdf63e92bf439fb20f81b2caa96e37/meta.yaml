@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/b3fdf63e92bf439fb20f81b2caa96e37/artifacts
+end_time: 1735617197961
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: b3fdf63e92bf439fb20f81b2caa96e37
+run_name: unique-fowl-413
+run_uuid: b3fdf63e92bf439fb20f81b2caa96e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197955
+status: 3
+tags: []
+user_id: bhavyavadher

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/720904673401910934/4dd75ac6b9e84a11b73005e776882c1d/artifacts
+end_time: 1735617183422
+entry_point_name: ''
+experiment_id: '720904673401910934'
+lifecycle_stage: active
+run_id: 4dd75ac6b9e84a11b73005e776882c1d
+run_name: wistful-crow-19
+run_uuid: 4dd75ac6b9e84a11b73005e776882c1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183415
+status: 3
+tags: []
+user_id: bhavyavadher

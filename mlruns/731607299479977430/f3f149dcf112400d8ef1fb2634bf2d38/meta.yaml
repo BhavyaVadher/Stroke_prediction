@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/f3f149dcf112400d8ef1fb2634bf2d38/artifacts
+end_time: 1735617197813
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: f3f149dcf112400d8ef1fb2634bf2d38
+run_name: nervous-dove-799
+run_uuid: f3f149dcf112400d8ef1fb2634bf2d38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197807
+status: 3
+tags: []
+user_id: bhavyavadher

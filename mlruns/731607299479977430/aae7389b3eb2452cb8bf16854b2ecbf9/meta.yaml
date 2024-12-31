@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/aae7389b3eb2452cb8bf16854b2ecbf9/artifacts
+end_time: 1735617183549
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: aae7389b3eb2452cb8bf16854b2ecbf9
+run_name: delightful-rat-762
+run_uuid: aae7389b3eb2452cb8bf16854b2ecbf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183543
+status: 3
+tags: []
+user_id: bhavyavadher

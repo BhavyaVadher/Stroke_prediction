@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/3a58009fee284ab595e861a98cbaa0df/artifacts
+end_time: 1735617197912
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 3a58009fee284ab595e861a98cbaa0df
+run_name: bedecked-squid-96
+run_uuid: 3a58009fee284ab595e861a98cbaa0df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197906
+status: 3
+tags: []
+user_id: bhavyavadher

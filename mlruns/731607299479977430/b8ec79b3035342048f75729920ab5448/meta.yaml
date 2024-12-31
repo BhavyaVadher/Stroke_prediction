@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/b8ec79b3035342048f75729920ab5448/artifacts
+end_time: 1735617198056
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: b8ec79b3035342048f75729920ab5448
+run_name: unruly-grub-968
+run_uuid: b8ec79b3035342048f75729920ab5448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198048
+status: 3
+tags: []
+user_id: bhavyavadher

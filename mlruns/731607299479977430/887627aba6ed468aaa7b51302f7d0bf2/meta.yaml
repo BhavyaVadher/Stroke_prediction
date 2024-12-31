@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/887627aba6ed468aaa7b51302f7d0bf2/artifacts
+end_time: 1735617187364
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 887627aba6ed468aaa7b51302f7d0bf2
+run_name: sassy-snipe-991
+run_uuid: 887627aba6ed468aaa7b51302f7d0bf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187358
+status: 3
+tags: []
+user_id: bhavyavadher

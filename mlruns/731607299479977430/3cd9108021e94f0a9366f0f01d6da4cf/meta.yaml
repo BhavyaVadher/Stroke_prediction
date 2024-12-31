@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/3cd9108021e94f0a9366f0f01d6da4cf/artifacts
+end_time: 1735617187312
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 3cd9108021e94f0a9366f0f01d6da4cf
+run_name: receptive-perch-556
+run_uuid: 3cd9108021e94f0a9366f0f01d6da4cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187304
+status: 3
+tags: []
+user_id: bhavyavadher

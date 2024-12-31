@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/a82eb9b92e5541fbae07b88ebcd7df21/artifacts
+end_time: 1735617197991
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: a82eb9b92e5541fbae07b88ebcd7df21
+run_name: thundering-quail-20
+run_uuid: a82eb9b92e5541fbae07b88ebcd7df21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197984
+status: 3
+tags: []
+user_id: bhavyavadher

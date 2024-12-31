@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/61acdfed914c4ca59601499a2ebb3d43/artifacts
+end_time: 1735617187403
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 61acdfed914c4ca59601499a2ebb3d43
+run_name: overjoyed-mule-605
+run_uuid: 61acdfed914c4ca59601499a2ebb3d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187395
+status: 3
+tags: []
+user_id: bhavyavadher

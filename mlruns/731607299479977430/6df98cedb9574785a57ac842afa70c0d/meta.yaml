@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/6df98cedb9574785a57ac842afa70c0d/artifacts
+end_time: 1735617183447
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 6df98cedb9574785a57ac842afa70c0d
+run_name: tasteful-moth-116
+run_uuid: 6df98cedb9574785a57ac842afa70c0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183441
+status: 3
+tags: []
+user_id: bhavyavadher

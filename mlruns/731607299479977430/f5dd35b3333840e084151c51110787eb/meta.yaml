@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/f5dd35b3333840e084151c51110787eb/artifacts
+end_time: 1735617198100
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: f5dd35b3333840e084151c51110787eb
+run_name: indecisive-shark-24
+run_uuid: f5dd35b3333840e084151c51110787eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198094
+status: 3
+tags: []
+user_id: bhavyavadher

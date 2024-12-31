@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/5721c22fd0e146718e9d2012e446b8d0/artifacts
+end_time: 1735617187338
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 5721c22fd0e146718e9d2012e446b8d0
+run_name: blushing-duck-180
+run_uuid: 5721c22fd0e146718e9d2012e446b8d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187332
+status: 3
+tags: []
+user_id: bhavyavadher

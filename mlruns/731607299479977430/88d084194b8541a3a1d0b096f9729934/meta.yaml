@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/88d084194b8541a3a1d0b096f9729934/artifacts
+end_time: 1735617197784
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 88d084194b8541a3a1d0b096f9729934
+run_name: bemused-shad-954
+run_uuid: 88d084194b8541a3a1d0b096f9729934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197778
+status: 3
+tags: []
+user_id: bhavyavadher

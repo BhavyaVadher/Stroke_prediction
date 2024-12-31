@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/50ad6584fdf94704a7c54b5b66ea1aaa/artifacts
+end_time: 1735617187351
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 50ad6584fdf94704a7c54b5b66ea1aaa
+run_name: enchanting-hen-444
+run_uuid: 50ad6584fdf94704a7c54b5b66ea1aaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187345
+status: 3
+tags: []
+user_id: bhavyavadher

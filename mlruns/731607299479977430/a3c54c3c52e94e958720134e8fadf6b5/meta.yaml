@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/a3c54c3c52e94e958720134e8fadf6b5/artifacts
+end_time: 1735617198150
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: a3c54c3c52e94e958720134e8fadf6b5
+run_name: delicate-finch-362
+run_uuid: a3c54c3c52e94e958720134e8fadf6b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617198144
+status: 3
+tags: []
+user_id: bhavyavadher

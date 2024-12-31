@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/45794c4fb2da461b91d38a4c0c9cb421/artifacts
+end_time: 1735617197920
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 45794c4fb2da461b91d38a4c0c9cb421
+run_name: traveling-whale-931
+run_uuid: 45794c4fb2da461b91d38a4c0c9cb421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197913
+status: 3
+tags: []
+user_id: bhavyavadher

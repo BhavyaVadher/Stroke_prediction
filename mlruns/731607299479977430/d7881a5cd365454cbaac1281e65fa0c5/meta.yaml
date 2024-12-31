@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/d7881a5cd365454cbaac1281e65fa0c5/artifacts
+end_time: 1735617188902
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: d7881a5cd365454cbaac1281e65fa0c5
+run_name: tasteful-cub-445
+run_uuid: d7881a5cd365454cbaac1281e65fa0c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617188882
+status: 3
+tags: []
+user_id: bhavyavadher

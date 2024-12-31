@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/3322d91bbabe40c4ae5033d290c323da/artifacts
+end_time: 1735617187253
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 3322d91bbabe40c4ae5033d290c323da
+run_name: able-dolphin-299
+run_uuid: 3322d91bbabe40c4ae5033d290c323da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617187248
+status: 3
+tags: []
+user_id: bhavyavadher

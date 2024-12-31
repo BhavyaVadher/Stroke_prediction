@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/701f230054f54e2d9c28909ff815f70f/artifacts
+end_time: 1735617197693
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 701f230054f54e2d9c28909ff815f70f
+run_name: suave-squirrel-278
+run_uuid: 701f230054f54e2d9c28909ff815f70f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197686
+status: 3
+tags: []
+user_id: bhavyavadher

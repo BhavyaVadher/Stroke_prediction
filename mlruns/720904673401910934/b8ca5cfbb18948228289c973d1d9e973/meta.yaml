@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/720904673401910934/b8ca5cfbb18948228289c973d1d9e973/artifacts
+end_time: 1735617197657
+entry_point_name: ''
+experiment_id: '720904673401910934'
+lifecycle_stage: active
+run_id: b8ca5cfbb18948228289c973d1d9e973
+run_name: unequaled-croc-758
+run_uuid: b8ca5cfbb18948228289c973d1d9e973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197652
+status: 3
+tags: []
+user_id: bhavyavadher

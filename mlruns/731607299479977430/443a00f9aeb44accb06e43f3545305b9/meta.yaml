@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/443a00f9aeb44accb06e43f3545305b9/artifacts
+end_time: 1735617183492
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 443a00f9aeb44accb06e43f3545305b9
+run_name: grandiose-stoat-271
+run_uuid: 443a00f9aeb44accb06e43f3545305b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183487
+status: 3
+tags: []
+user_id: bhavyavadher

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/d26f68bc07094d86a4f75f3f79a05bb6/artifacts
+end_time: 1735617183454
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: d26f68bc07094d86a4f75f3f79a05bb6
+run_name: omniscient-swan-462
+run_uuid: d26f68bc07094d86a4f75f3f79a05bb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617183448
+status: 3
+tags: []
+user_id: bhavyavadher

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhavyavadher/Desktop/Project/Stroke_prediction/mlruns/731607299479977430/399c785a82284e4cb530fe88e2026aaa/artifacts
+end_time: 1735617197939
+entry_point_name: ''
+experiment_id: '731607299479977430'
+lifecycle_stage: active
+run_id: 399c785a82284e4cb530fe88e2026aaa
+run_name: luminous-moose-512
+run_uuid: 399c785a82284e4cb530fe88e2026aaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735617197931
+status: 3
+tags: []
+user_id: bhavyavadher
